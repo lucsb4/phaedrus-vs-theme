@@ -1,21 +1,48 @@
 {
-    "name": "phaedrus-theme",
-    "displayName": "Phaedrus Theme",
-    "description": "",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.53.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Phaedrus Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Phaedrus Theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "phaedrus-theme",
+  "displayName": "Phaedrus Theme",
+  "publisher": "lucsb4",
+  "author": {
+    "name": "Lucas Barbosa"
+  },
+  "description": "",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucsb4/phaedrus-vs-theme"
+  },
+  "keywords": [
+    "Phaedrus",
+    "Simple",
+    "Warm",
+    "Default",
+    "Dracula",
+    "Default+ Tweaked",
+    "Noctis"
+  ],
+  "engines": {
+    "vscode": "^1.53.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Phaedrus Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/phaedrus-dark-color-theme.json"
+      },
+      {
+        "label": "Phaedrus Light",
+        "uiTheme": "vs",
+        "path": "./themes/phaedrus-light-color-theme.json"
+      },
+      {
+        "label": "Phaedrus Light Warm",
+        "uiTheme": "vs",
+        "path": "./themes/phaedrus-light-warm-color-theme.json"
+      }
+    ]
+  }
 }
