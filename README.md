@@ -1,13 +1,27 @@
-# README
-## This is the README for your extension "phaedrus-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Phaedrus Theme
+## 📃 The Theme is designed to:
+-Give semantic syntax coloring while;
+-Being faithful to the VS Code defaults;
+-Be simple
+-Be cool
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## 🦜 This theme mimics: 
+-Dracula;
+-Noctis;
+-Default+ Tweaked;
+-VS Code defaults;
+-with some tweaks here and there;
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## 🌅 Screenshots
+-screenshot1
+-screenshot2
+-screenshot3
 
-**Enjoy!**
+## 📢 To fix:
+-Add screenshots
+-Add icon
+-Add badge
+-Add description in the package.json
+-Add more descriptions in this README
+-Add to the store❔
+-What else❔
