@@ -6,7 +6,7 @@
     "name": "Lucas Barbosa"
   },
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/lucsb4/phaedrus-vs-theme"
@@ -18,7 +18,9 @@
     "Default",
     "Dracula",
     "Default+ Tweaked",
-    "Noctis"
+    "Noctis",
+    "Nord",
+    "Palenight"
   ],
   "engines": {
     "vscode": "^1.53.0"
@@ -32,6 +34,11 @@
         "label": "Phaedrus Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/phaedrus-dark-color-theme.json"
+      },
+      {
+        "label": "Phaedrus Dark Oceanic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/phaedrus-dark-oceanic-color-theme.json"
       },
       {
         "label": "Phaedrus Light",

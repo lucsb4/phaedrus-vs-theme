@@ -20,6 +20,10 @@
 
 - VS Code defaults;
 
+- Palenight;
+
+- Nord;
+
 - with some tweaks here and there;
 
 
