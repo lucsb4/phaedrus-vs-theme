@@ -5,8 +5,8 @@
 		"activityBar.activeBackground": "#e3e4e4",
 		"activityBar.activeBorder": "#54a3ff",
 		"activityBar.background": "#f2f4f5",
-		"activityBar.border": "#e1e4e8",
-		"activityBar.foreground": "#000",
+		"activityBar.border": "#f2f4f5",
+		"activityBar.foreground": "#6d6d6d",
 		"activityBarBadge.background": "#54a3ff",
 		"breadcrumb.activeSelectionForeground": "#333",
 		"breadcrumb.background": "#e1e4e8",
@@ -54,6 +54,7 @@
 		"tab.activeBackground": "#ffffff",
 		"tab.activeBorderTop": "#54a3ff",
 		"tab.activeForeground": "#000000",
+      "tab.hoverBackground": "#f5f5f5",
 		"tab.border": "#e1e4e8",
 		"tab.inactiveBackground": "#fafbfc",
 		"tab.inactiveForeground": "#000000aa",
@@ -64,7 +65,7 @@
 		"titleBar.activeBackground": "#f2f4f5",
 		"titleBar.activeForeground": "#444444",
 		"titleBar.border": "#e1e4e8",
-		"tree.indentGuidesStroke": "#a8a8a8",
+		"tree.indentGuidesStroke": "#a8a8a8"
 	},
 	"tokenColors": [
 		{
