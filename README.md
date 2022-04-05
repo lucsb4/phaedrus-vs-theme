@@ -53,12 +53,12 @@
 ## This extension is not on the store. How to install it manually?
 - Check that you have node and npm installed, and that you have VS Code (code) on your path.
 
-- Install Visual Studio Code Extensions globally: `npm install -g vsce`
-
-- Clone this project, change to its root directory and run: `vsce package`
+- Go to the project directory and use the npx to run and create a package with Visual Studio Code Extensions: `npx vsce package`
 
 - A package .vsix will be created in the directory.
 
 - Run `code --install-extension [packagename].vsix`
 
-- Restart VS Code and enjoy 😁
+- A VS Code restart may be required.
+
+- Enjoy 😁
